@@ -1,0 +1,33 @@
+{
+  "users": {
+    "valid": {
+      "username": "standard_user",
+      "password": "secret_sauce"
+    },
+    "locked": {
+      "username": "locked_out_user",
+      "password": "secret_sauce"
+    },
+    "problem": {
+      "username": "problem_user",
+      "password": "secret_sauce"
+    },
+    "performance_glitch": {
+      "username": "performance_glitch_user",
+      "password": "secret_sauce"
+    }
+  },
+  "dataUsers": {
+    "firstUser": {
+      "firstName": "Rosa",
+      "lastName": "Campos",
+      "postalCode": "12345"
+    },
+    "secondUser": {
+      "firstName": "Milton",
+      "lastName": "Campos",
+      "postalCode": "54321"
+    }
+  }
+}
+        
